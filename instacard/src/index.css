@@ -32,9 +32,38 @@ body{
   
 }
 .logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 40px;
   height: 40px;
-  background-color: rgb(254, 252, 252);
+  background-color: rgb(255, 255, 255);
   border-radius: 50%;
   border: 1px solid grey;
+}
+.save-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  padding: 5px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+
+  background-color: #f8f8f8;
+  color: #777;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.save-btn:hover {
+  background-color: #eeeeee;
+}
+.logo img{
+  height: 35px;
+  width: 35px;
+  overflow: hidden;
+  border-radius: 50%;
+  
+
 }
