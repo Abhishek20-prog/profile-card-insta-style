@@ -2,8 +2,8 @@
 
 const Card = () => {
   return (
-    <div>
-      
+    <div className="parent">
+      <div className="box"></div>
     </div>
   )
 }
