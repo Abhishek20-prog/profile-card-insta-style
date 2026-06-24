@@ -3,7 +3,9 @@
 const Card = () => {
   return (
     <div className="parent">
-      <div className="box"></div>
+      <div className="box">
+        <div className="logo"></div>
+      </div>
     </div>
   )
 }
