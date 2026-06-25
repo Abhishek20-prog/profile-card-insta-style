@@ -13,7 +13,7 @@ const Card = () => {
 </button>
         </div>
         <div className="details"><div className="name">Amazon
-          
+          <div className="days">5 Days ago</div>
         </div>
         </div>
         
