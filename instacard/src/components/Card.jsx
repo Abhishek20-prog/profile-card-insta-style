@@ -14,8 +14,17 @@ const Card = () => {
         </div>
         <div className="details"><div className="name">Amazon
           <div className="days">5 Days ago</div>
+          
+        </div>
+        <div className="position">Senior UI/UX Designer</div>
+        <div className="dets">
+          <div className="timing">Part-time</div>
+          <div className="others">Senior Level</div>
+
+
         </div>
         </div>
+        <div className="line"></div>
         
         
       </div>

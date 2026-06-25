@@ -15,10 +15,9 @@ body{
   width: 250px;
   height: 280px;
   background-color: rgb(250, 247, 247);
-  border-radius: 10px;
+  border-radius: 30px;
   border: 1px solid rgb(3, 3, 3);
-  /* padding: 20px; */
-  /* display: flex; */
+  
   padding-top: 15px;
   
 }
@@ -80,4 +79,39 @@ body{
    position: relative;
    top: 5px;
    color: grey;
+}
+.position{
+  font-size: 15px;
+  padding-left:20px;
+  font-weight: bold;
+ 
+}
+.dets{
+  display: flex;
+  padding-left: 20px;
+  gap:10px;
+  font-size: 13px;
+  
+}
+.timing{
+  padding:5px;
+  background-color: #dbdada;
+  border-radius: 20px;
+
+}
+.others{
+  padding:5px;
+  background-color: #dbdada;
+  border-radius: 20px;
+
+}
+.line{
+  width: 80%;
+  height: 1px;
+  background-color: #dbdada;
+  
+   
+    position: relative;
+    top: 60px;
+    left: 25px;
 }
