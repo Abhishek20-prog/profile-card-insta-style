@@ -142,4 +142,9 @@ right: 5px;
 .location{
   font-size: 10px;
   color: grey;
+  font-weight: lighter;
+}
+.salary{
+  font-weight: bold;
+
 }
