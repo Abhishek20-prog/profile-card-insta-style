@@ -18,7 +18,7 @@ body{
   border-radius: 10px;
   border: 1px solid rgb(3, 3, 3);
   /* padding: 20px; */
-  display: flex;
+  /* display: flex; */
   padding-top: 15px;
   
 }
@@ -66,4 +66,8 @@ body{
   border-radius: 50%;
   
 
+}
+.name{
+  display: flex;
+  padding:20px;
 }

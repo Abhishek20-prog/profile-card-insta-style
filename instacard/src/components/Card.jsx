@@ -12,7 +12,12 @@ const Card = () => {
   <span className="save-icon">♡</span>
 </button>
         </div>
-        <div className="name"></div>
+        <div className="details"><div className="name">Amazon
+          
+        </div>
+        </div>
+        
+        
       </div>
     </div>
   )
