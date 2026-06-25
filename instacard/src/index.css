@@ -16,7 +16,7 @@ body{
   height: 280px;
   background-color: rgb(250, 247, 247);
   border-radius: 30px;
-  border: 1px solid rgb(3, 3, 3);
+  border: 5px solid rgb(225, 225, 225);
   
   padding-top: 15px;
   
@@ -132,7 +132,7 @@ body{
 .btn{
   border: 1px solid grey;
 border-radius: 5px;
-padding: 5px 10px;
+padding: 10px 10px;
 cursor: pointer;
 font-size: 13px;
 color: rgb(255, 254, 254);
