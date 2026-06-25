@@ -115,3 +115,33 @@ body{
     top: 60px;
     left: 25px;
 }
+.footer{
+  display: flex;
+ 
+  padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 8px;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+     top: 60px;
+     left: 5px;
+}
+.btn{
+  border: 1px solid grey;
+border-radius: 5px;
+padding: 5px 10px;
+cursor: pointer;
+font-size: 13px;
+color: rgb(255, 254, 254);
+background-color: rgb(7, 7, 7);
+position: relative;
+top: 5px;
+right: 5px;
+}
+.location{
+  font-size: 10px;
+  color: grey;
+}
