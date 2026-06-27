@@ -3,7 +3,7 @@
 
 const Card = (prop) => {
   return (
-    <div className="parent">
+    
       <div className="box">
         <div className="header">
           <div className="logo"><img src={prop.img} alt="" srcset="" /></div>
@@ -31,7 +31,7 @@ const Card = (prop) => {
         </div>
         
       </div>
-    </div>
+    
   )
 }
 
